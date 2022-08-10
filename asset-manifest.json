@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LetsBook2/static/css/main.d4152a03.css",
+    "main.js": "/LetsBook2/static/js/main.b23bcdd1.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/LetsBook2/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Judson-Regular.ttf": "/LetsBook2/static/media/Judson-Regular.e528cdf241c7c3ab19e4.ttf",
+    "static/media/Judson-Italic.ttf": "/LetsBook2/static/media/Judson-Italic.ebddcc29842d58b90e20.ttf",
+    "static/media/Montserrat-Bold.ttf": "/LetsBook2/static/media/Montserrat-Bold.63fae500fdcf19ce83d4.ttf",
+    "static/media/Montserrat-Regular.ttf": "/LetsBook2/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
+    "static/media/Judson-Bold.ttf": "/LetsBook2/static/media/Judson-Bold.198c83cab5578364aa6b.ttf",
+    "static/media/Nunito-Light.ttf": "/LetsBook2/static/media/Nunito-Light.8f5610014505d18f0ffe.ttf",
+    "static/media/Nunito-Regular.ttf": "/LetsBook2/static/media/Nunito-Regular.325f6b17880102deb0a8.ttf",
+    "static/media/Nunito-SemiBold.ttf": "/LetsBook2/static/media/Nunito-SemiBold.6a5a212cd3c4da7e7ba8.ttf",
+    "static/media/Nunito-Bold.ttf": "/LetsBook2/static/media/Nunito-Bold.4553e8e307fb4dc343b7.ttf",
+    "index.html": "/LetsBook2/index.html",
+    "main.d4152a03.css.map": "/LetsBook2/static/css/main.d4152a03.css.map",
+    "main.b23bcdd1.js.map": "/LetsBook2/static/js/main.b23bcdd1.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/LetsBook2/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4152a03.css",
+    "static/js/main.b23bcdd1.js"
+  ]
+}
